@@ -1,4 +1,4 @@
-# individual_remote
+# ir-remote-with-touch-sensor
 remote control for infrared devices with arduino and touch sensor originally made for people with motor disabilities
 with that code you can make your own remote control for infrared controlled devices
 you need an arduino, a mpr121 touch sensor, infrared led and receiver
